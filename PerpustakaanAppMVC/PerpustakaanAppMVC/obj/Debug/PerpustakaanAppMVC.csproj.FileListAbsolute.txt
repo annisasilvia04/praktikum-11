@@ -1,0 +1,26 @@
+D:\Semester 3\Pemrograman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+D:\Semester 3\Pemrograman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe
+D:\Semester 3\Pemrograman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.pdb
+D:\Semester 3\Pemrograman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.dll
+D:\Semester 3\Pemrograman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.xml
+D:\Semester 3\Pemrograman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.AssemblyReference.cache
+D:\Semester 3\Pemrograman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.Properties.Resources.resources
+D:\Semester 3\Pemrograman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.GenerateResource.cache
+D:\Semester 3\Pemrograman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CoreCompileInputs.cache
+D:\Semester 3\Pemrograman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CopyComplete
+D:\Semester 3\Pemrograman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
+D:\Semester 3\Pemrograman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.AssemblyReference.cache
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.Properties.Resources.resources
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmEntryMahasiswa.resources
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmMahasiswa.resources
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.GenerateResource.cache
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CoreCompileInputs.cache
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.pdb
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.dll
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.xml
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CopyComplete

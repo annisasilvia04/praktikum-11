@@ -1,0 +1,12 @@
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Release\PerpustakaanAppMVC.exe.config
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Release\PerpustakaanAppMVC.exe
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Release\PerpustakaanAppMVC.pdb
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Release\System.Data.SQLite.dll
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Release\System.Data.SQLite.xml
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Release\PerpustakaanAppMVC.csproj.AssemblyReference.cache
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Release\PerpustakaanAppMVC.Properties.Resources.resources
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Release\PerpustakaanAppMVC.csproj.GenerateResource.cache
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Release\PerpustakaanAppMVC.csproj.CoreCompileInputs.cache
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Release\PerpustakaanAppMVC.csproj.CopyComplete
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Release\PerpustakaanAppMVC.exe
+D:\Pemrogramman Lanjut\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Release\PerpustakaanAppMVC.pdb
